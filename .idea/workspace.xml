@@ -2,55 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="511365e5-d5a1-487d-89cc-6764b0ab7103" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/week1_024_NhlStatisticsPart2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1-000.Sandbox/week1-000.Sandbox.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week1-000.Sandbox/week1-000.Sandbox.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1-014.PositiveValue/week1-014.PositiveValue.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week1-014.PositiveValue/week1-014.PositiveValue.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1-015.AgeOfMajority/week1-015.AgeOfMajority.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week1-015.AgeOfMajority/week1-015.AgeOfMajority.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1-016.EvenOrOdd/week1-016.EvenOrOdd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week1-016.EvenOrOdd/week1-016.EvenOrOdd.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1-017.GreaterNumber/week1-017.GreaterNumber.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week1-017.GreaterNumber/week1-017.GreaterNumber.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1-018.GradesAndPoints/week1-018.GradesAndPoints.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week1-018.GradesAndPoints/week1-018.GradesAndPoints.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1-019.AgeCheck/week1-019.AgeCheck.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week1-019.AgeCheck/week1-019.AgeCheck.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1-020.Usernames/week1-020.Usernames.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week1-020.Usernames/week1-020.Usernames.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1-021.LeapYear/week1-021.LeapYear.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week1-021.LeapYear/week1-021.LeapYear.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1-022.Password/week1-022.Password.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week1-022.Password/week1-022.Password.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1-023.Temperatures/week1-023.Temperatures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week1-023.Temperatures/week1-023.Temperatures.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1-024.NhlStatisticsPart2/week1-024.NhlStatisticsPart2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week1-024.NhlStatisticsPart2/week1-024.NhlStatisticsPart2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2-025.SumOfThreeNumbers/week2-025.SumOfThreeNumbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week2-025.SumOfThreeNumbers/week2-025.SumOfThreeNumbers.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2-026.SumOfManyNumbers/week2-026.SumOfManyNumbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week2-026.SumOfManyNumbers/week2-026.SumOfManyNumbers.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2-027.FromOneToHundred/week2-027.FromOneToHundred.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week2-027.FromOneToHundred/week2-027.FromOneToHundred.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2-028.FromHundredToOne/week2-028.FromHundredToOne.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week2-028.FromHundredToOne/week2-028.FromHundredToOne.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2-029.EvenNumbers/week2-029.EvenNumbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week2-029.EvenNumbers/week2-029.EvenNumbers.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2-030.UpToCertainNumber/week2-030.UpToCertainNumber.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week2-030.UpToCertainNumber/week2-030.UpToCertainNumber.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2-031.LowerLimitAndUpperLimit/week2-031.LowerLimitAndUpperLimit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week2-031.LowerLimitAndUpperLimit/week2-031.LowerLimitAndUpperLimit.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2-032.TheSumOfSetOfNumbers/week2-032.TheSumOfSetOfNumbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week2-032.TheSumOfSetOfNumbers/week2-032.TheSumOfSetOfNumbers.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2-033.TheSumBetweenTwoNumbers/week2-033.TheSumBetweenTwoNumbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week2-033.TheSumBetweenTwoNumbers/week2-033.TheSumBetweenTwoNumbers.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2-034.Factorial/week2-034.Factorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week2-034.Factorial/week2-034.Factorial.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2-035.SumOfThePowers/week2-035.SumOfThePowers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week2-035.SumOfThePowers/week2-035.SumOfThePowers.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week2-036.LoopsEndingRemembering/LoopsEndingRemembering.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week2-036.LoopsEndingRemembering/LoopsEndingRemembering.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-035.SumOfThePowers/src/SumOfThePowers.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2-035.SumOfThePowers/src/SumOfThePowers.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,8 +13,38 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week2-036.LoopsEndingRemembering/src/LoopsEndingRemembering.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week2-035.SumOfThePowers/src/SumOfThePowers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="58" lean-forward="true" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/week2-036.LoopsEndingRemembering/src/LoopsEndingRemembering.java" />
+        <option value="$PROJECT_DIR$/week2-035.SumOfThePowers/src/SumOfThePowers.java" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-1920" />
@@ -74,10 +58,42 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mooc-2013-OOProgrammingWithJava-PART1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week2-034" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="mooc-2013-OOProgrammingWithJava-PART1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week2-035" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="mooc-2013-OOProgrammingWithJava-PART1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week2-035" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="week2-035.SumOfThePowers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mooc-2013-OOProgrammingWithJava-PART1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week2-035" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="week2-035.SumOfThePowers" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mooc-2013-OOProgrammingWithJava-PART1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week2-036" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545576356785" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -91,7 +107,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SumOfThePowers">
     <configuration name="LoopsEndingRemembering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LoopsEndingRemembering" />
       <module name="week2-036.LoopsEndingRemembering" />
@@ -99,8 +115,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOfThePowers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfThePowers" />
+      <module name="week2-035.SumOfThePowers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfThePowers" />
         <item itemvalue="Application.LoopsEndingRemembering" />
       </list>
     </recent_temporary>
@@ -129,35 +153,56 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="-157" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32953367" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32953367" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="TMC Test Results" weight="0.32953367" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32953367" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32953367" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="TMC Project List" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32953367" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="TMC Test Results" order="9" weight="0.32953367" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32953367" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="TMC Project List" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/week2-036.LoopsEndingRemembering/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2-036.LoopsEndingRemembering/src/LoopsEndingRemembering.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2-035.SumOfThePowers/src/SumOfThePowers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="58" lean-forward="true" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
