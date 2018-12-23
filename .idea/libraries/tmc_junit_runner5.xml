@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="tmc-junit-runner5">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/week1-024.NhlStatisticsPart2/lib/testrunner/tmc-junit-runner.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week2-034.Factorial/lib/testrunner/tmc-junit-runner.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

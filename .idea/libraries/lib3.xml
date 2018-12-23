@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="lib3">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/week1-000.Sandbox/lib/junit-4.11.jar!/" />
-      <root url="jar://$PROJECT_DIR$/week1-000.Sandbox/lib/edu-test-utils-0.4.2.jar!/" />
-      <root url="jar://$PROJECT_DIR$/week1-000.Sandbox/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week2-027.FromOneToHundred/lib/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week2-027.FromOneToHundred/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week2-027.FromOneToHundred/lib/edu-test-utils-0.4.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

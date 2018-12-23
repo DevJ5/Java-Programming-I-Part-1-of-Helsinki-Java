@@ -14,6 +14,24 @@
       <module fileurl="file://$PROJECT_DIR$/week1-022.Password/week1-022.Password.iml" filepath="$PROJECT_DIR$/week1-022.Password/week1-022.Password.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1-023.Temperatures/week1-023.Temperatures.iml" filepath="$PROJECT_DIR$/week1-023.Temperatures/week1-023.Temperatures.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1-024.NhlStatisticsPart2/week1-024.NhlStatisticsPart2.iml" filepath="$PROJECT_DIR$/week1-024.NhlStatisticsPart2/week1-024.NhlStatisticsPart2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2-025.SumOfThreeNumbers/week2-025.SumOfThreeNumbers.iml" filepath="$PROJECT_DIR$/week2-025.SumOfThreeNumbers/week2-025.SumOfThreeNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2-026.SumOfManyNumbers/week2-026.SumOfManyNumbers.iml" filepath="$PROJECT_DIR$/week2-026.SumOfManyNumbers/week2-026.SumOfManyNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2-027.FromOneToHundred/week2-027.FromOneToHundred.iml" filepath="$PROJECT_DIR$/week2-027.FromOneToHundred/week2-027.FromOneToHundred.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2-028.FromHundredToOne/week2-028.FromHundredToOne.iml" filepath="$PROJECT_DIR$/week2-028.FromHundredToOne/week2-028.FromHundredToOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2-029.EvenNumbers/week2-029.EvenNumbers.iml" filepath="$PROJECT_DIR$/week2-029.EvenNumbers/week2-029.EvenNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2-030.UpToCertainNumber/week2-030.UpToCertainNumber.iml" filepath="$PROJECT_DIR$/week2-030.UpToCertainNumber/week2-030.UpToCertainNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2-031.LowerLimitAndUpperLimit/week2-031.LowerLimitAndUpperLimit.iml" filepath="$PROJECT_DIR$/week2-031.LowerLimitAndUpperLimit/week2-031.LowerLimitAndUpperLimit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2-032.TheSumOfSetOfNumbers/week2-032.TheSumOfSetOfNumbers.iml" filepath="$PROJECT_DIR$/week2-032.TheSumOfSetOfNumbers/week2-032.TheSumOfSetOfNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2-033.TheSumBetweenTwoNumbers/week2-033.TheSumBetweenTwoNumbers.iml" filepath="$PROJECT_DIR$/week2-033.TheSumBetweenTwoNumbers/week2-033.TheSumBetweenTwoNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2-034.Factorial/week2-034.Factorial.iml" filepath="$PROJECT_DIR$/week2-034.Factorial/week2-034.Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2-035.SumOfThePowers/week2-035.SumOfThePowers.iml" filepath="$PROJECT_DIR$/week2-035.SumOfThePowers/week2-035.SumOfThePowers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2-036.LoopsEndingRemembering/week2-036.LoopsEndingRemembering.iml" filepath="$PROJECT_DIR$/week2-036.LoopsEndingRemembering/week2-036.LoopsEndingRemembering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2-037.PrintingOutText/week2-037.PrintingOutText.iml" filepath="$PROJECT_DIR$/week2-037.PrintingOutText/week2-037.PrintingOutText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2-038.ManyPrints/week2-038.ManyPrints.iml" filepath="$PROJECT_DIR$/week2-038.ManyPrints/week2-038.ManyPrints.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2-039.Printing/week2-039.Printing.iml" filepath="$PROJECT_DIR$/week2-039.Printing/week2-039.Printing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2-040.PrintingLikeboss/week2-040.PrintingLikeboss.iml" filepath="$PROJECT_DIR$/week2-040.PrintingLikeboss/week2-040.PrintingLikeboss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2-041.GuessingNumberGame/week2-041.GuessingNumberGame.iml" filepath="$PROJECT_DIR$/week2-041.GuessingNumberGame/week2-041.GuessingNumberGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2-042.Hangman/week2-042.Hangman.iml" filepath="$PROJECT_DIR$/week2-042.Hangman/week2-042.Hangman.iml" />
     </modules>
   </component>
 </project>

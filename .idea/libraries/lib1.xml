@@ -1,9 +1,17 @@
 <component name="libraryTable">
   <library name="lib1">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/week1-015.AgeOfMajority/lib/hamcrest-core-1.3.jar!/" />
-      <root url="jar://$PROJECT_DIR$/week1-015.AgeOfMajority/lib/edu-test-utils-0.4.2.jar!/" />
-      <root url="jar://$PROJECT_DIR$/week1-015.AgeOfMajority/lib/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week2-038.ManyPrints/lib/powermock-easymock-1.5.5-full.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week2-038.ManyPrints/lib/javassist-3.18.2-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week2-038.ManyPrints/lib/objenesis-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week2-038.ManyPrints/lib/powermock-module-junit4-rule-1.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week2-038.ManyPrints/lib/powermock-classloading-base-1.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week2-038.ManyPrints/lib/edu-test-utils-0.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week2-038.ManyPrints/lib/easymock-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week2-038.ManyPrints/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week2-038.ManyPrints/lib/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week2-038.ManyPrints/lib/cglib-nodep-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week2-038.ManyPrints/lib/powermock-classloading-objenesis-1.5.5.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

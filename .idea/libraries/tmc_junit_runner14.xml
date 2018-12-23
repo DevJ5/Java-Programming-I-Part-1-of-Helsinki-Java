@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tmc-junit-runner14">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/week2-033.TheSumBetweenTwoNumbers/lib/testrunner/tmc-junit-runner.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
