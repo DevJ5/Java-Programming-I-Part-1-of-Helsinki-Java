@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/week1-000.Sandbox/week1-000.Sandbox.iml" filepath="$PROJECT_DIR$/week1-000.Sandbox/week1-000.Sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1-014.PositiveValue/week1-014.PositiveValue.iml" filepath="$PROJECT_DIR$/week1-014.PositiveValue/week1-014.PositiveValue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1-015.AgeOfMajority/week1-015.AgeOfMajority.iml" filepath="$PROJECT_DIR$/week1-015.AgeOfMajority/week1-015.AgeOfMajority.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1-016.EvenOrOdd/week1-016.EvenOrOdd.iml" filepath="$PROJECT_DIR$/week1-016.EvenOrOdd/week1-016.EvenOrOdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1-017.GreaterNumber/week1-017.GreaterNumber.iml" filepath="$PROJECT_DIR$/week1-017.GreaterNumber/week1-017.GreaterNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1-018.GradesAndPoints/week1-018.GradesAndPoints.iml" filepath="$PROJECT_DIR$/week1-018.GradesAndPoints/week1-018.GradesAndPoints.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1-019.AgeCheck/week1-019.AgeCheck.iml" filepath="$PROJECT_DIR$/week1-019.AgeCheck/week1-019.AgeCheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1-020.Usernames/week1-020.Usernames.iml" filepath="$PROJECT_DIR$/week1-020.Usernames/week1-020.Usernames.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1-021.LeapYear/week1-021.LeapYear.iml" filepath="$PROJECT_DIR$/week1-021.LeapYear/week1-021.LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1-022.Password/week1-022.Password.iml" filepath="$PROJECT_DIR$/week1-022.Password/week1-022.Password.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1-023.Temperatures/week1-023.Temperatures.iml" filepath="$PROJECT_DIR$/week1-023.Temperatures/week1-023.Temperatures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1-024.NhlStatisticsPart2/week1-024.NhlStatisticsPart2.iml" filepath="$PROJECT_DIR$/week1-024.NhlStatisticsPart2/week1-024.NhlStatisticsPart2.iml" />
+    </modules>
+  </component>
+</project>
