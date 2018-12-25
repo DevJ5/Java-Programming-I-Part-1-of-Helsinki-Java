@@ -5,6 +5,14 @@ public class WordInsideWord {
 
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
+        // user input is 2 words
+        System.out.println("Type the first word: ");
+        String word1 = reader.nextLine();
+        System.out.println("Type the second word: ");
+        String word2 =  reader.nextLine();
 
+        // output is if the second word is included in the first, yes or no.
+        if(word1.indexOf(word2) == -1) System.out.println("The word '" + word2 + "' is not found in the word '" + word1 + "'.");
+        else System.out.println("The word '" + word2 + "' is found in the word '" + word1 + "'.");
     }
 }

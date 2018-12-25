@@ -2,8 +2,12 @@ import java.util.ArrayList;
 
 public class TheGreatest {
     public static int greatest(ArrayList<Integer> list) {
-        // write code here
-        return 0;
+        int temp = list.get(0);
+        for (Integer number : list) {
+            if(temp < number) temp = number;
+        }
+
+        return temp;
     }
 
     public static void main(String[] args) {
