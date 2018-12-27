@@ -42,7 +42,7 @@ public class HangmanLogic {
         int wordLength = this.word.length();
         int i = 0;
 
-        // while loop over all the characters
+        // loop over all the characters
         while(i < wordLength) {
             // if character is in the guessedletters array, show it
             if(guessedLetters.contains("" + this.word.charAt(i))) hiddenWord += this.word.charAt(i);
