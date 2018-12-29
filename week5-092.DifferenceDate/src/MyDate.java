@@ -3,9 +3,9 @@ public class MyDate {
     private int month;
     private int year;
 
-    public MyDate(int day, int montd, int year) {
+    public MyDate(int day, int month, int year) {
         this.day = day;
-        this.month = montd;
+        this.month = month;
         this.year = year;
     }
 
@@ -28,6 +28,30 @@ public class MyDate {
         }
 
         return false;
+    }
+
+    public int differenceInYears(MyDate comparedDate) {
+        // Only shows a full year. So... 14-02-2001 and 10-02-2002
+        int years = 0;
+
+        // 14-02-2001 < 10-02-2002
+        // 14-03-2001 < 10-02-2002
+        if(this.year < comparedDate.year) {
+            years = comparedDate.year - this.year;
+            if(this.month == comparedDate.month && this.day > comparedDate.day) years--;
+            else if(this.month > comparedDate.month) years--;
+        }
+
+        // 14-02-2002 > 14-02-2001
+        // 14-02-2002 > 15-02-2001
+        // 14-01-2002 > 15-02-2001
+        if(this.year > comparedDate.year) {
+            years = this.year - comparedDate.year;
+            if(this.month == comparedDate.month && this.day < comparedDate.day) years--;
+            else if(this.month < comparedDate.month) years--;
+        }
+
+        return years;
     }
 
 }
