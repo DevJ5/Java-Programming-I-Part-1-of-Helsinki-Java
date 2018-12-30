@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d14e832-4a5a-4c33-9a8d-ecbe0de74659" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../week3-071.SmartCombining/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-073.Product/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-073.Product/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-074.Multiplier/src/Multiplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-075.DecreasingCounter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-076.Menu/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/src/LyyraCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/src/BoundedCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-083.HangmanLogic/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week3-070.CombiningArrayLists/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-070.CombiningArrayLists/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week3-070.CombiningArrayLists/src/CombiningArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-070.CombiningArrayLists/src/CombiningArrayLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week3-071.SmartCombining/src/SmartCombining.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-071.SmartCombining/src/SmartCombining.java" afterDir="false" />
-    </list>
+    <list default="true" id="0d14e832-4a5a-4c33-9a8d-ecbe0de74659" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +40,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -81,6 +56,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -120,8 +96,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="-180" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49926144" visible="true" weight="0.25239617" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49926144" visible="true" weight="0.2550586" />
       <window_info id="Structure" order="1" sideWeight="0.50073856" side_tool="true" weight="0.24973376" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -136,9 +113,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970297" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32970297" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32970297" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="TMC Test Results" order="10" visible="true" weight="0.32970297" />
+      <window_info anchor="bottom" id="TMC Test Results" order="10" weight="0.32970297" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32970297" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
