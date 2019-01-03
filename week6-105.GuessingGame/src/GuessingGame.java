@@ -5,18 +5,46 @@ public class GuessingGame {
     private Scanner reader;
 
     public GuessingGame() {
-        // use only this scanner, othervise the tests do not work
+        // use only this scanner, otherwise the tests do not work
         this.reader = new Scanner(System.in);
     }
 
     public void play(int lowerLimit, int upperLimit) {
         instructions(lowerLimit, upperLimit);
 
-        // write the guessing logic here
+        while(true) {
+            if(lowerLimit ==  upperLimit) {
+                System.out.println("The number you're thinking of is " + lowerLimit);
+                break;
+            }
+            int avg = this.average(lowerLimit, upperLimit);
+            Boolean answer = isGreaterThan(avg);
+
+            if(answer) {
+                lowerLimit = avg + 1;
+            }
+            else {
+                upperLimit = avg;
+            }
+        }
 
     }
 
     // implement here the methods isGreaterThan and average
+
+
+    public boolean isGreaterThan(int value) {
+        System.out.print("Is your number greater than " + value + " (y/n");
+        String input = reader.nextLine();
+
+        if(input.equals("y")) return true;
+        else return false;
+
+    }
+
+    public int average(int firstNumber, int secondNumber) {
+        return (firstNumber + secondNumber) / 2;
+    }
 
     public void instructions(int lowerLimit, int upperLimit) {
         int maxQuestions = howManyTimesHalvable(upperLimit - lowerLimit);

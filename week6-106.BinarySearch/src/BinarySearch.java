@@ -4,12 +4,11 @@ public class BinarySearch {
         int end = array.length - 1;
 
         while (beginning <= end) {
-            int middle = (beginning + end) / 2;
-            if (array[middle] == searchedValue) {
-                return true;
-            }
+            int middle = (beginning + end) / 2; // 0 and 3 = 1.5 => 1
+            if (array[middle] == searchedValue) return true;
 
-            // restrict the search area 
+            if(array[middle] > searchedValue) end = middle - 1;
+            else beginning = middle + 1;
         }
         return false;
     }
